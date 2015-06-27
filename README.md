@@ -11,3 +11,6 @@
 - allow multidevice in daisy chaining
 - easy configuration
 - font included
+
+## Extras
+- [Compile Sketch with VIm + make](https://github.com/GrayHats/arduino_scripts)
