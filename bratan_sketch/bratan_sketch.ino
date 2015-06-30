@@ -18,6 +18,7 @@
  pin 11 is connected to LOAD
  Lastly specify number devices tonnected to MAX72XX.
  */
+
 //LedControl lc=LedControl(9,10,11,2); // Replace with your pin numbers
 const int numDevices = 3;      // number of MAX7219s used
 LedControl lc=LedControl(10,12,11,numDevices);
