@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/blackout314/arduinoDMD.svg)](https://travis-ci.org/blackout314/arduinoDMD)
+
 # arduino Dot Matrix Display sketch
 
 =====
