@@ -6,7 +6,7 @@
 // Notes: Work in progress, character sizes are not consistent
 // In this verions we adding full ASCII support with offset for 1st 32 chars
 // Small issue, lengh of myText is not determined correctly (had to subtract 1) to get it working. Not sure why...
-#include "LedControl.h"
+#include <LedControl.h>
 #include <avr/pgmspace.h>
 #include "font8x8.h"
 
